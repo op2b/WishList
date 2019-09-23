@@ -8,3 +8,6 @@ Only code here. App can:
   4) Saved on the map
   
 Another traning app
+
+ ![alt text](https://i.imgur.com/O6nzywV.png?1)    ![alt text](https://i.imgur.com/OVjKxtL.png?1)  
+
